@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa4c6f35.css",
+    "main.js": "/static/js/main.18dd9c3e.js",
+    "static/media/lofi2.jpg": "/static/media/lofi2.5f90e4fec5e45c59dc74.jpg",
+    "static/media/zoro3 (2).png": "/static/media/zoro3 (2).4ea8be2933ba96760e28.png",
+    "static/media/zoro1.png": "/static/media/zoro1.6b43d919f2bc739023fe.png",
+    "static/media/zoro2.png": "/static/media/zoro2.975acfbc89405217fb8a.png",
+    "index.html": "/index.html",
+    "main.fa4c6f35.css.map": "/static/css/main.fa4c6f35.css.map",
+    "main.18dd9c3e.js.map": "/static/js/main.18dd9c3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa4c6f35.css",
+    "static/js/main.18dd9c3e.js"
+  ]
+}
